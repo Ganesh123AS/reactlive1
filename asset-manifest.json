@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactlive1/static/css/main.f9a874af.css",
+    "main.js": "/reactlive1/static/js/main.f752d006.js",
+    "static/js/787.abd94b31.chunk.js": "/reactlive1/static/js/787.abd94b31.chunk.js",
+    "static/media/gym-bg.jpg": "/reactlive1/static/media/gym-bg.ab1bea8961c42f0ad5e0.jpg",
+    "index.html": "/reactlive1/index.html",
+    "main.f9a874af.css.map": "/reactlive1/static/css/main.f9a874af.css.map",
+    "main.f752d006.js.map": "/reactlive1/static/js/main.f752d006.js.map",
+    "787.abd94b31.chunk.js.map": "/reactlive1/static/js/787.abd94b31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9a874af.css",
+    "static/js/main.f752d006.js"
+  ]
+}
